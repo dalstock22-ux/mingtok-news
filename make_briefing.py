@@ -3,9 +3,12 @@ import json, urllib.request, xml.etree.ElementTree as ET, datetime, html, sys
 
 FEEDS = [
     ("연합뉴스", "https://www.yna.co.kr/rss/economy.xml"),
-    ("한국경제", "https://www.hankyung.com/feed/finance"),
+    ("연합뉴스", "https://www.yna.co.kr/rss/market.xml"),
+    ("이데일리", "http://rss.edaily.co.kr/stock_news.xml"),
+    ("아시아경제", "https://www.asiae.co.kr/rss/stock.htm"),
+    ("한국경제", "https://www.hankyung.com/feed/finance"),  # 일부 서버에서 차단될 수 있어 실패해도 건너뜀
 ]
-PER_FEED = 8
+PER_FEED = 5
 KST = datetime.timezone(datetime.timedelta(hours=9))
 
 def fetch(name, url):
@@ -16,7 +19,7 @@ def fetch(name, url):
     for it in root.iter("item"):
         t = html.unescape((it.findtext("title") or "").strip())
         u = (it.findtext("link") or "").strip()
-        if t and u.startswith("https://"):
+        if t and u.startswith(("https://", "http://")):
             out.append({"t": t, "u": u, "s": name})
         if len(out) >= PER_FEED:
             break
