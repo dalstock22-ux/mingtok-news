@@ -3,6 +3,8 @@ on:
   schedule:
     - cron: "30 0 * * *"   # 한국시간 오전 9:30
     - cron: "0 9 * * *"    # 한국시간 오후 6:00
+    - cron: "50 0 * * *"   # 예비(지연 대비) 오전 9:50
+    - cron: "20 9 * * *"   # 예비(지연 대비) 오후 6:20
   workflow_dispatch: {}
 permissions:
   contents: write
