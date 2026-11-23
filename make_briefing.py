@@ -40,7 +40,7 @@ def main(path):
     if not items:
         sys.exit("헤드라인을 하나도 못 받아 기존 파일을 유지합니다")
     now = datetime.datetime.now(KST)
-    label = "아침 브리핑" if now.hour < 14 else "저녁 브리핑"
+    label = "뉴스 브리핑"
     json.dump({"updated": now.strftime("%Y-%m-%d %H:%M"), "label": label, "items": items},
               open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print(label, len(items), "건")
