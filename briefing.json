@@ -1,130 +1,125 @@
 {
- "updated": "2026-11-24 06:28",
+ "updated": "2026-11-24 15:17",
  "label": "뉴스 브리핑",
  "items": [
   {
-   "t": "내년부터 주택조합도 공사비 검증 의무…조합원 5분의 1 요구 시",
-   "u": "https://www.yna.co.kr/view/AKR20261123124600003",
+   "t": "금감원 \"랩어카운트 과도한 투자손실…내부통제 강화해야\"",
+   "u": "https://www.yna.co.kr/view/AKR20261124131600002",
    "s": "연합뉴스"
   },
   {
-   "t": "[코스피·코스닥 전 거래일(23일) 주요공시]",
-   "u": "https://www.yna.co.kr/view/AKR20261123163700008",
-   "s": "연합뉴스"
-  },
-  {
-   "t": "매수 버튼 앞에서 멈췄다면…부족한 자금보다 먼저 볼 계좌 상태",
-   "u": "http://www.edaily.co.kr/news/newspath.asp?newsid=33875846645648016",
+   "t": "매일유업, 61억 규모 자사주 소각 결정",
+   "u": "http://www.edaily.co.kr/news/newspath.asp?newsid=03401366645649000",
    "s": "이데일리"
   },
   {
-   "t": "FIU \"개정 특금법 부칙신고, 사업자 갱신신고와 혼동해선 안돼\"",
-   "u": "https://view.asiae.co.kr/article/2026112316480900488",
+   "t": "[크립토레이더]정부, 가상자산거래소 지분 34%까지 예외 허용…신고·공시 의무하에 ICO 허용",
+   "u": "https://view.asiae.co.kr/article/2026112408474564278",
    "s": "아시아경제"
   },
   {
-   "t": "[속보] 뉴욕증시, 나스닥 6%대 급등 마감…엔비디아 31.5%↑",
-   "u": "https://www.hankyung.com/article/2026112454807",
+   "t": "트럼프 엄포에 급락한 데이터센터株 반등…증권가 “우려 과도…저가매수 기회”",
+   "u": "https://www.hankyung.com/article/202611247024i",
    "s": "한국경제"
   },
   {
-   "t": "한중 FTA 후속타결에 K-뷰티·여행업 '화색'…중국 재공략 시동",
-   "u": "https://www.yna.co.kr/view/AKR20261123159500030",
+   "t": "'월세살이' 5년새 104만 가구 늘어…'비혼 동거' 17만 가구(종합)",
+   "u": "https://www.yna.co.kr/view/AKR20261124092351002",
    "s": "연합뉴스"
   },
   {
-   "t": "가상자산사업자 28곳 모두 신고…당국, 대주주까지 심사",
-   "u": "https://www.yna.co.kr/view/AKR20261123158800002",
+   "t": "젠슨황 일단 돌아왔지만 다섯갈래 조사 '산 넘어 산'",
+   "u": "https://www.yna.co.kr/view/AKR20261124131000009",
    "s": "연합뉴스"
   },
   {
-   "t": "투자유치냐 매각이냐…‘찹쌀떡’ 한정선, 런베뮤와 닮은꼴",
-   "u": "http://www.edaily.co.kr/news/newspath.asp?newsid=01767926645648016",
+   "t": "앤디포스, 32억 규모 자사주 소각 결정",
+   "u": "http://www.edaily.co.kr/news/newspath.asp?newsid=03391526645649000",
    "s": "이데일리"
   },
   {
-   "t": "[속보]엔비디아, 젠슨 황 CEO 복귀에 30% 넘게 급등 출발",
-   "u": "https://view.asiae.co.kr/article/2026112323423235803",
+   "t": "애드바이오텍, 4500만 팔로워 앞세워 K뷰티 유통 확대…12월 첫 공동구매",
+   "u": "https://view.asiae.co.kr/article/2026112415093783499",
    "s": "아시아경제"
   },
   {
-   "t": "월가, 엔비디아 목표가 최대 270달러…황 복귀 효과 [젠슨 황 CEO 복귀]",
-   "u": "https://www.hankyung.com/article/202611245431i",
+   "t": "[오후시황] 코스피 5000선 안착 시도…외국인·기관 '사자'",
+   "u": "https://www.hankyung.com/article/202611246885i",
    "s": "한국경제"
   },
   {
-   "t": "계절적 수요 증가 기대에…기업 경기전망 3개월만에 '긍정적'",
-   "u": "https://www.yna.co.kr/view/AKR20261123129900003",
+   "t": "은평구, '주민자치회 사무국장' 16명 공개 채용",
+   "u": "https://www.yna.co.kr/view/AKR20261124131300004",
    "s": "연합뉴스"
   },
   {
-   "t": "뉴욕증시, 젠슨 황 엔비디아 CEO 재임명에 상승 출발",
-   "u": "https://www.yna.co.kr/view/AKR20261123176000009",
+   "t": "앤트로픽, 개발자 코드 배포 돕는 '클로드 쉽' 출시",
+   "u": "https://www.yna.co.kr/view/AKR20261124130600009",
    "s": "연합뉴스"
   },
   {
-   "t": "헤어지지 못한 CGV와 사모펀드…불편한 빚잔치[위클리IB]",
-   "u": "http://www.edaily.co.kr/news/newspath.asp?newsid=01702326645648016",
+   "t": "새 ETF 내놓자 견제부터…금감원 제동에 “혁신 위축”",
+   "u": "http://www.edaily.co.kr/news/newspath.asp?newsid=03371846645649000",
    "s": "이데일리"
   },
   {
-   "t": "미래에셋증권 'IB 총괄' 사업부 1년 만에 폐지",
-   "u": "https://view.asiae.co.kr/article/2026112319233055511",
+   "t": "타임X AI, 반도체 장비 리퍼비시 첫 공급 계약…신사업 본격화",
+   "u": "https://view.asiae.co.kr/article/2026112415065960821",
    "s": "아시아경제"
   },
   {
-   "t": "젠슨 황 복귀에 美의회 반발…엔비디아 中수출 조사 압박 [젠슨 황 CEO 복귀]",
-   "u": "https://www.hankyung.com/article/202611245405i",
+   "t": "\"불법 공매도 감시 강화\"…금감원·거래소 합동 TF 가동",
+   "u": "https://www.hankyung.com/article/2026112469336",
    "s": "한국경제"
   },
   {
-   "t": "AI·로봇이 바꾸는 건설현장…25일부터 스마트건설 엑스포",
-   "u": "https://www.yna.co.kr/view/AKR20261123133500003",
+   "t": "벡스코, 마케팅본부장에 정영수 코트라 실장 선임",
+   "u": "https://www.yna.co.kr/view/AKR20261124130800051",
    "s": "연합뉴스"
   },
   {
-   "t": "글로벌IB, 삼전닉스 목표가 잇달아 하향…2028년 업황 둔화 우려",
-   "u": "https://www.yna.co.kr/view/AKR20261123166100008",
+   "t": "디지털자산법에 업계 기대감…스테이블코인·ICO 길 열리나",
+   "u": "https://www.yna.co.kr/view/AKR20261124102100002",
    "s": "연합뉴스"
   },
   {
-   "t": "폭락한 AI주, 물타기할까 갈아탈까…주가 말고 '이것' 보라",
-   "u": "http://www.edaily.co.kr/news/newspath.asp?newsid=01682646645648016",
+   "t": "에드 야데니 \"젠슨 황은 우리의 산타클로스\"…美증시 급등",
+   "u": "http://www.edaily.co.kr/news/newspath.asp?newsid=03188166645649000",
    "s": "이데일리"
   },
   {
-   "t": "K-뷰티 날개에 화장품 펌프·튜브 용기도 '훨훨'[클릭 e종목]",
-   "u": "https://view.asiae.co.kr/article/2026112317550238348",
+   "t": "웰레스트-빅썸바이오, 개별인정형 신소재 공동 사업화 협력 MOU",
+   "u": "https://view.asiae.co.kr/article/2026112415020130366",
    "s": "아시아경제"
   },
   {
-   "t": "젠슨 황, 엔비디아 CEO 전격 복귀…이사회 만장일치 결정",
-   "u": "https://www.hankyung.com/article/2026112454041",
+   "t": "KODEX 미국AI에이전트액티브, 美앤트로픽 19.4% 비중 편입",
+   "u": "https://www.hankyung.com/article/202611246855i",
    "s": "한국경제"
   },
   {
-   "t": "중기부, 초격차 스타트업 유럽 진출 지원…베를린서 투자유치전",
-   "u": "https://www.yna.co.kr/view/AKR20261123146100030",
+   "t": "박홍배 의원, 공공기관 지역인재 의무채용 회피 방지법 발의",
+   "u": "https://www.yna.co.kr/view/AKR20261124129000051",
    "s": "연합뉴스"
   },
   {
-   "t": "미래에셋증권, 'IB 총괄' 사업부 폐지…도입 1년만",
-   "u": "https://www.yna.co.kr/view/AKR20261123163400008",
+   "t": "코인거래소 대주주 지분 20% 제한…스테이블코인 은행 주도",
+   "u": "https://www.yna.co.kr/view/AKR20261124124400002",
    "s": "연합뉴스"
   },
   {
-   "t": "제넥신, 바이오프로탁 기술이전도 묘연한데…이번엔 ‘AI 신사업’ 카드?",
-   "u": "http://www.edaily.co.kr/news/newspath.asp?newsid=01669526645648016",
+   "t": "엔키화이트햇, AI 보안 플랫폼 앞세워 글로벌 시장 공략 시동[IPO출사표]",
+   "u": "http://www.edaily.co.kr/news/newspath.asp?newsid=03184886645649000",
    "s": "이데일리"
   },
   {
-   "t": "손정의도 탐낸 하이닉스 메모리…20년치 물량 확보 나선 빅테크[클릭 e산업]",
-   "u": "https://view.asiae.co.kr/article/2026112317430850505",
+   "t": "\"불법 공매도 3개월 집중 감시\" 금감원·거래소 합동 TF 가동",
+   "u": "https://view.asiae.co.kr/article/2026112414491872407",
    "s": "아시아경제"
   },
   {
-   "t": "젠슨 황 돌아오자 분위기 달라졌다…SK하닉 美서 20% '반전'",
-   "u": "https://www.hankyung.com/article/2026112454021",
+   "t": "엑셀세라퓨틱스 40억 유상증자…대표 회사·서연씨엠씨 13억씩 인수",
+   "u": "https://www.hankyung.com/article/2026112468806",
    "s": "한국경제"
   }
  ]
