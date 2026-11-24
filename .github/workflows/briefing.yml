@@ -1,10 +1,7 @@
 name: 뉴스 브리핑 갱신
 on:
   schedule:
-    - cron: "30 0 * * *"   # 한국시간 오전 9:30
-    - cron: "0 9 * * *"    # 한국시간 오후 6:00
-    - cron: "50 0 * * *"   # 예비(지연 대비) 오전 9:50
-    - cron: "20 9 * * *"   # 예비(지연 대비) 오후 6:20
+    - cron: "7 * * * *"    # 매시간 7분(한국시간 매시 07분). 지연·누락 대비로 자주 실행
   workflow_dispatch: {}
 permissions:
   contents: write
